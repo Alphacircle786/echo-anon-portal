@@ -14,7 +14,7 @@ const Header = () => {
             <MessageSquare className="h-6 w-6 text-white" />
           </div>
           <h1 className="text-2xl font-cursive font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-            AnonMessenger
+            IncogniTex
           </h1>
         </div>
         
